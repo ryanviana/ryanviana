@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi, I'm Ryan</h1>
 <h3 align="center">I am a Computer Engineering student @ USP</h3>
 
 - 🔭 I’m currently working on **developing my portfolio!**
