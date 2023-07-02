@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my portfolio!**
 
-- 🌱 I’m currently learning **Advanced Algorithms for Coding Interviews**
+- 🌱 I’m currently learning **Blockchain, Solidity, and Full Stack Web3 Development with JavaScript**
 
 - 📫 How to reach me **ryanviana@usp.br**
 
