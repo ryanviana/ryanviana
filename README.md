@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Blockchain, Solidity, and Full Stack Web3 Development with JavaScript**
 
+- 🛠️ I’m currently working with **Java & Spring**
+
 - 📫 How to reach me **ryanviana@usp.br**
 
 <h3 align="left">Connect with me:</h3>
