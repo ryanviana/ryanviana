@@ -1,7 +1,7 @@
 # Ryan Viana
 
 🔔 Fazendo o sino tocar com IA.  
-🚀 Fundador da [SinoAI](https://sinoai.com) & [Prisma Tech](https://www.linkedin.com/company/prismatech-ai)  
+🚀 Fundador da [SinoAI](https://sinoai.com.br) & [Prisma Tech](https://prismatech.framer.website/)  
 👨‍💻 Engenheiro de Computação na USP  
 🌐 Meu site pessoal (powered by AI): [ryanviana.com](https://ryanviana.com)
 
