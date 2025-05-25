@@ -8,12 +8,9 @@
 ---
 
 ## Sobre mim
-
-Eu sou o cara que transforma caos em produto. Já automatizei escola sozinho, já ganhei hackathons internacionais sem saber blockchain, e agora tô construindo agentes de vendas com IA que realmente funcionam — sem papo de marketing.
-
 - 💡 Curioso profissional com fome de execução
 - 🤖 Faço IA sair do PowerPoint e virar automação real
-- 🛠️ Empreendedor raiz com background técnico (Java, LangChain, Node, Python, Solidity, PostgreSQL)
+- 🛠️ Empreendedor com background técnico
 - 🧠 Mentalidade de hackathon aplicada à vida: menos prazo, mais entrega
 
 ---
@@ -24,10 +21,6 @@ Eu sou o cara que transforma caos em produto. Já automatizei escola sozinho, j�
 🏆 1º lugar no **XRP Ledger Hackathon Brasil** – app de overnight banking descentralizado  
 🏆 2º lugar no **Hackathon de Tokenização do Tesouro Nacional** – interoperabilidade G2C  
 🏆 +5 hackathons premiados em blockchain, IA e govtech
-
-📦 Projeto mais rentável?  
-Assinar o ChatGPT Plus antes do resto do mundo num hackathon e transformar $60 em $20k.
-
 ---
 
 ## Quer ver o que construí?
