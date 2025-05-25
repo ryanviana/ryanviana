@@ -1,16 +1,54 @@
-<h1 align="center">Hi, I'm Ryan</h1>
-<h3 align="center">I am a Computer Engineering student @ USP</h3>
+# Ryan Viana
 
-- 🔭 I’m working on **developing my portfolio!**
+🔔 Fazendo o sino tocar com IA.  
+🚀 Fundador da [SinoAI](https://sinoai.com) & [Prisma Tech](https://www.linkedin.com/company/prismatech-ai)  
+👨‍💻 Engenheiro de Computação na USP  
+🌐 Meu site pessoal (powered by AI): [ryanviana.com](https://ryanviana.com)
 
-- 🌱 I’m currently learning **Blockchain, Solidity, and Full Stack Web3 Development with JavaScript**
+---
 
-- 🛠️ I’m currently working with **Java & Spring**
+## Sobre mim
 
-- 📫 How to reach me **ryanviana@usp.br**
+Eu sou o cara que transforma caos em produto. Já automatizei escola sozinho, já ganhei hackathons internacionais sem saber blockchain, e agora tô construindo agentes de vendas com IA que realmente funcionam — sem papo de marketing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryanviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanviana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ryanviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryanviana" height="30" width="40" /></a>
-</p>
+- 💡 Curioso profissional com fome de execução
+- 🤖 Faço IA sair do PowerPoint e virar automação real
+- 🛠️ Empreendedor raiz com background técnico (Java, LangChain, Node, Python, Solidity, PostgreSQL)
+- 🧠 Mentalidade de hackathon aplicada à vida: menos prazo, mais entrega
+
+---
+
+## Alguns feitos
+
+🏆 1º lugar no **Zencon Hackathon** – $20k com solução em blockchain para saúde  
+🏆 1º lugar no **XRP Ledger Hackathon Brasil** – app de overnight banking descentralizado  
+🏆 2º lugar no **Hackathon de Tokenização do Tesouro Nacional** – interoperabilidade G2C  
+🏆 +5 hackathons premiados em blockchain, IA e govtech
+
+📦 Projeto mais rentável?  
+Assinar o ChatGPT Plus antes do resto do mundo num hackathon e transformar $60 em $20k.
+
+---
+
+## Quer ver o que construí?
+
+🧠 [ryanviana.com/projects](https://ryanviana.com/projects)  
+Todos os meus projetos estão lá, com update automático via AI agents.
+
+Exemplo?  
+💬 Um site pessoal inteligente que lê meu LinkedIn, interpreta com LangChain e atualiza tudo sozinho.  
+Código aberto? [github.com/ryanviana/ryan-pwp](https://github.com/ryanviana/ryan-pwp)
+
+---
+
+## Let’s connect
+
+Se quiser trocar ideia, bater um papo sobre automações, bots, negócios ou hackathons:
+
+📬 ryanviana.com  
+📇 [LinkedIn](https://linkedin.com/in/ryanviana)
+
+---
+
+> *"O melhor código é aquele que toca o sino da sua startup."*
+
